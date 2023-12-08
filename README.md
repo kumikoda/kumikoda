@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a software engineer & manager with experience building ML platforms and scaling distributed systems 
+
+- 🏖️ I'm currently taking time off to explore topics in AI such as LLMs & RL 
+- 🫡 I'm interested in contributing to open source projects as a way to give back 
+- ⭐️ More info about me at ansonchu.com
 
 <!--
 **kumikoda/kumikoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
